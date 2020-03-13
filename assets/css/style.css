@@ -1,0 +1,23 @@
+.btn-primary {
+  
+  color: #fff;
+  background-color: #ff0000;
+  border-color: red;
+}
+
+.btn-primary:hover {
+  color: red;
+  background-color: #fff;
+  border-color: red;
+
+}
+
+body{
+  font-family: 'Playfair Display', Georgia, "Times New Roman", serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Josefin Sans',Helvetica,Arial,Lucida,sans-serif;
+}
+.btn{
+  font-family: 'Josefin Sans',Helvetica,Arial,Lucida,sans-serif;
+}
